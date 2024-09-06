@@ -6,11 +6,11 @@
 <br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enzo_Mello&show_icons=true&theme=holi)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnzoMello&show_icons=true&theme=holi)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoMelo_Mello&layout=donut-vertical&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoMello&layout=donut-vertical&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Enzo_Mello&bg_color=00021f&color=14b1ff&line=0042ad&point=0daab5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EnzoMello&bg_color=00021f&color=14b1ff&line=0042ad&point=0daab5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center"> 
