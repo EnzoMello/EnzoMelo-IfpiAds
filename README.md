@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=header"/>
+![Trending topics on Tumblr](https://github.com/user-attachments/assets/d62a3083-2757-4fdc-b845-ea496d194d87)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=+Code&weight=350&size=17&duration=2300&pause=700&color=00BFFF&center=true&vCenter=true&random=false&width=1000&lines=Olá,+me+chamo+Enzo+Melo+Araújo!!;Eu+tenho+18+anos.;Eu+sou+estudante+de+sistemas+no+Instituto+Federal+do+Piauí+e+desenvolvedor+de+jogos+em+LABIRAS.;Seja+bem-vindo+ao+meu+perfil%3A)](https://git.io/typing-svg)
 
